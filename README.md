@@ -1,4 +1,8 @@
-### Hi there 👋
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/watanave/contributions.svg)](http://qiita.com/watanave)
+
+[![watanavex's github stats](https://github-readme-stats.vercel.app/api?username=watanavex)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=watanavex)](https://github.com/watanavex "trophy")
 
 <!--
 **watanavex/watanavex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
